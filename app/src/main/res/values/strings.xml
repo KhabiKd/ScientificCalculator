@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="C">C</string>
+    <string name="parentheses">( )</string>
+    <string name="percent">%</string>
+    <string name="divide">÷</string>
+    <string name="nineText">9</string>
+    <string name="eightText">8</string>
+    <string name="sevenText">7</string>
+    <string name="sixText">6</string>
+    <string name="fiveText">5</string>
+    <string name="fourText">4</string>
+    <string name="threeText">3</string>
+    <string name="twoText">2</string>
+    <string name="oneText">1</string>
+    <string name="equals">=</string>
+    <string name="point">,</string>
+    <string name="zero">0</string>
+    <string name="negative">+/-</string>
+    <string name="multiply">×</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+
+    <string name="switchBtn">₪</string>
+    <string name="radian">Rad</string>
+    <string name="sqrt">√</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="ln">ln</string>
+    <string name="log">log</string>
+    <string name="xMinusDegree">1/x</string>
+    <string name="expInX">e<sup><small>x</small></sup></string>
+    <string name="xIn2">x²</string>
+    <string name="xIny">x<sup><small>y</small></sup></string>
+    <string name="modX">|x|</string>
+    <string name="pi">π</string>
+    <string name="exp">e</string>
+</resources>
